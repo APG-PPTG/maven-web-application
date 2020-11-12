@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.15.15.47:9980/mithuntechnologies/repository/wallmart-releases/</url>
+	      <name>PPTG Releases Nexus Repository</name>
+	      <url>http://52.15.235.120:9009/PPTGSol/repository/mavenWebApps-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.15.15.47:9980/mithuntechnologies/repository/wallmart-snapshots/</url>
+	      <url>http://52.15.235.120:9009/PPTGSol/repository/mavenWebApps-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
